@@ -77,4 +77,35 @@
     transform : rotate(25deg);
     border-radius:60%;
   }
+
+  .cat-right-eye{
+    width:30px;
+    height:40px;
+    background-color:#000;
+    position :absolute;
+    top:54px;
+    left:134px;
+    transform :rotate(-25deg);
+    border-radius:60%;
+  }
+  .cat-left-inner-eye{
+    width:10px;
+    height:20px;
+    background-color:#fff;
+    position :absolute;
+  top:8px;
+  left:2px;
+  border-radius:60%;
+  transform: rotate(10deg);
+  }
+  .cat-right-inner-eye{
+    width:10px;
+    height:20px;
+    background-color: #fff;
+    position :absolute;
+    top:8px;
+    left:18px;
+    border-radius: 60%;
+    transform: rotate(-5deg);
+  }
   
